@@ -17,10 +17,6 @@
 
 - 🤝 **I’m looking to learn by doing.**
 
--
-
-- 📝 I regularly write articles on: https://medium.com/@ankitmalhotra1999
-
 - 📫 How to reach me: **ankitmalhotra1999@gmail.com**
 
 - ⚡ Fun fact: **I am instinctive.**

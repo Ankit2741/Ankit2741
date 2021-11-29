@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit2741&label=Profile%20views&color=0e75b6&style=flat" alt="ankit2741" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit2741" alt="ankit2741" /></a> </p>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/370256/screenshots/3033105/media/205a88d9f111d48e8bb9f5924707c929.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/370256/screenshots/3033105/media/205a88d9f111d48e8bb9f5924707c929.gif">
 
 
 - 🔭 **I’m currently pursuing my Bachelor of Engineering in Computer Science.**

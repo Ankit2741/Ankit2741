@@ -17,9 +17,9 @@
 
 - 🤝 **I’m looking to learn by doing.**
 
-- 🔗 Connect with me: [https://www.linkedin.com/in/ankit-malhotra-675b341a5](https://www.linkedin.com/in/ankit-malhotra-675b341a5)
+- 🔗 Connect with me: https://www.linkedin.com/in/ankit-malhotra-675b341a5
 
-- 📝 I regularly write articles on: [https://instagram.com/ankitmalhotra1211?utm_medium=copy_link](https://instagram.com/ankitmalhotra1211?utm_medium=copy_link)
+- 📝 I regularly write articles on: https://medium.com/@ankitmalhotra1999
 
 - 📫 How to reach me: **ankitmalhotra1999@gmail.com**
 
